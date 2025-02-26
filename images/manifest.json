@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mradamcox.github.io/alex-p1/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in mradamcox/alex-p1 project"
+        ]
+    },
+    "items": []
+}

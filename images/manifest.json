@@ -7,5 +7,87 @@
             "All images loaded in mradamcox/alex-p1 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://mradamcox.github.io/alex-p1/images/p3-anno/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p3-anno"
+                ]
+            },
+            "height": 593,
+            "width": 500,
+            "items": [
+                {
+                    "id": "https://mradamcox.github.io/alex-p1/images/p3-anno/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mradamcox.github.io/alex-p1/images/p3-anno/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mradamcox.github.io/alex-p1/images/p3-anno/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 16,
+                                                "height": 19
+                                            },
+                                            {
+                                                "width": 32,
+                                                "height": 38
+                                            },
+                                            {
+                                                "width": 63,
+                                                "height": 75
+                                            },
+                                            {
+                                                "width": 125,
+                                                "height": 149
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 297
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 593
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 500,
+                                        "@id": "https://mradamcox.github.io/alex-p1/images/p3-anno",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 593,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mradamcox.github.io/alex-p1/images/p3-anno/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
